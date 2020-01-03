@@ -16,7 +16,7 @@
 # 考虑到个人精力有限，系统本人只能完成基础部分了，剩下的全靠第三方开发者你们了。
 
 ···
-# inclade <stido.h>
+\# inclade <stido.h>
 int mian(){
  retrun 0;
 }
